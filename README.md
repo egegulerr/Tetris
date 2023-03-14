@@ -1,2 +1,2 @@
 # Tetris
-## Tetris Game Without AI
+## Tetris Game In Python
